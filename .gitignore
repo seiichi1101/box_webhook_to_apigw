@@ -1,5 +1,11 @@
 # for blog
 blog_templates
-markdonw.css
+markdown.css
 BLOG.md
+MARP.md                                                                                                                                                                                    
 pics
+libs
+.vscode
+lambda.zip
+terraform.*
+.terraform
